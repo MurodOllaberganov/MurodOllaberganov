@@ -20,4 +20,5 @@ My name is Murod Ollaberganov and I'm a software developer/engineer.
 ![](https://img.shields.io/badge/BuildTool-Gradle-informational?style=flat&logo=gradle&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring-boot&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&color=2bbc8a)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&color=2bbc8a)
 
