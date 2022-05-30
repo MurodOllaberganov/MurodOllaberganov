@@ -1,4 +1,4 @@
-# Hello! <img src="https://github.com/MurodOllaberganov/MurodOllaberganov/blob/main/wave.gif">
+# Hello! <img src="https://github.com/MurodOllaberganov/MurodOllaberganov/blob/main/wave.gif width="30px">
 
 My name is Murod Ollaberganov and I'm a software developer/DevOps engineer.
 
