@@ -1,4 +1,4 @@
-# Hello! <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px](https://github.com/MurodOllaberganov/MurodOllaberganov/blob/main/wave.gif)">
+# Hello! <img src="https://github.com/MurodOllaberganov/MurodOllaberganov/blob/main/wave.gif">
 
 My name is Murod Ollaberganov and I'm a software developer/DevOps engineer.
 
@@ -18,4 +18,4 @@ My name is Murod Ollaberganov and I'm a software developer/DevOps engineer.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
->>>>>>> 7db1e6b9665e0d707b5988ea69009ef0757fef4e
+
