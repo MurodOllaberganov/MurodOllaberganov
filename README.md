@@ -5,7 +5,7 @@ My name is Murod Ollaberganov and I'm a software developer/engineer.
 # E-Mail: murod.ollaberganov@outlook.com
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Eclipse_IDEA-informational?style=flat&logo=eclipse-idea&color=2bbc8a)
+![](https://img.shields.io/badge/-Eclipse_IDEA-informational?style=flat&logo=eclipse-idea&color=2bbc8a)
 ![](https://img.shields.io/badge/Intellij_IDEA-informational?style=flat&logo=intellij-idea&color=2bbc8a)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=vscode&color=2bbc8a)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&color=2bbc8a)
