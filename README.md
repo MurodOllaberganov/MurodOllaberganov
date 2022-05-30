@@ -1,6 +1,8 @@
-# MurodOllaberganov
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# E-Mail: Murod.ollaberganov@yahoo.de
+My name is Murod Ollaberganov and I'm a software developer/DevOps engineer.
+
+# E-Mail: Murod.ollaberganov@outlook.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
