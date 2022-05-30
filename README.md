@@ -1,10 +1,7 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px](https://github.com/MurodOllaberganov/MurodOllaberganov/blob/main/wave.gif)">
 
 My name is Murod Ollaberganov and I'm a software developer/DevOps engineer.
 
-<<<<<<< HEAD
-![](https://img.shields.io/badge/<Code>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-=======
 # E-Mail: Murod.ollaberganov@outlook.com
 
 ## 🔧 Technologies & Tools
