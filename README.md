@@ -17,6 +17,7 @@ My name is Murod Ollaberganov and I'm a software developer/engineer.
 ![](https://img.shields.io/badge/Code-NOSQL-informational?style=flat&logo=nosql&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BuildTool-Maven-informational?style=flat&logo=maven&color=2bbc8a)
+![](https://img.shields.io/badge/BuildTool-Gradle-informational?style=flat&logo=gradle&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
